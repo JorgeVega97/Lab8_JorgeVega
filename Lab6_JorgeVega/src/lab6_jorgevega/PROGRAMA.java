@@ -1,4 +1,4 @@
-package lab6_jorgevega;
+package Lab6_JorgeVega;
 
 /**
 JorgeVega

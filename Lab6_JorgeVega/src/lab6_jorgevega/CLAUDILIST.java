@@ -1,7 +1,7 @@
 /*
 Jorge Vega
  */
-package lab6_jorgevega;
+package Lab6_JorgeVega;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
